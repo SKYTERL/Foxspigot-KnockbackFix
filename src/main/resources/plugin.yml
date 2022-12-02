@@ -1,0 +1,5 @@
+name: KncobackFix
+version: 1.0
+main: me.skyter.KnockbackFix
+authors: [ SKYTER ]
+description: Change kb on different kits.
